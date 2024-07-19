@@ -1,1 +1,1 @@
-# Integrated-Python-with-Machine-Learning-short-term-internship-training-programme-in-TRTC-MSME-
+# integrated_python_with_machine_learning_internship_training_programme_in_trtc_msme
